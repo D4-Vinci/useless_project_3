@@ -1,3 +1,0 @@
-/home/leonardo/Downloads/blob-desktop-pet/build/CMakeFiles/blob.dir
-/home/leonardo/Downloads/blob-desktop-pet/build/CMakeFiles/edit_cache.dir
-/home/leonardo/Downloads/blob-desktop-pet/build/CMakeFiles/rebuild_cache.dir
